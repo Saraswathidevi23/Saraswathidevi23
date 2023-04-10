@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)
 <h1 align="center">Hi 👋, I'm Saraswathi Devi</h1>
 <h3 align="center">A passionate software developer.</h3>
-<img align="right" alt="coding" width="400"><img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media>
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saraswathidevi23&label=Profile%20views&color=0e75b6&style=flat" alt="saraswathidevi23" /> </p>
 
