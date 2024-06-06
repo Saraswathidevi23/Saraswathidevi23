@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Full stack developer**
 
-- 💬 Ask me about **React,Javascript,python,PowerBI**
+- 💬 Ask me about **React,Javascript,PowerBI,BOB J**
 
 - 📫 How to reach me **saraswathidevi237@gmail.com**
 
